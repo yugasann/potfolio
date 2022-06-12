@@ -1,0 +1,5 @@
+export const HOME_PATH = process.env.NEXT_PUBLIC_BASE_PATH + '/'
+export const LOGOUT_PATH = process.env.NEXT_PUBLIC_BASE_PATH + '/logout'
+export const LOGIN_PATH = process.env.NEXT_PUBLIC_BASE_PATH + '/login'
+export const EXPERIENCE_PATH = process.env.NEXT_PUBLIC_BASE_PATH + '/experience'
+export const SKILLS_PATH = process.env.NEXT_PUBLIC_BASE_PATH + '/skills'

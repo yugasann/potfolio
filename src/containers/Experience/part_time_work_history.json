@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "title": "ソフトウェア開発",
+      "name": "福祉系サービス",
+      "size": "< 10",
+      "location": "関東, 日本",
+      "period": "2022 - FEB 2019",
+      "description": "福祉系サービスのDX化、新規クラウドサービス事業開発を担当。",
+      "technology": ["Next.js", "Nx", "Amplify", "AWS", "GraphQL"]
+    },
+    {
+      "title": "フルスタックエジニア",
+      "name": "人材紹介系サービス",
+      "size": "<50",
+      "location": "関東, 日本",
+      "period": "2020 - 2022",
+      "description": "人材紹介系サービス開発への初期ステージからプロジェクト参入。WEBサービスの保守運用＆改善業務を担当。",
+      "technology": ["Ruby on Rails", "React", "Next.js", "MySQL", "AWS", "Kubernetes"]
+    }
+  ]
+
+}

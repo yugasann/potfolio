@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "title": "Senior Software Engineer",
+      "name": "GrabCAD/Stratasys",
+      "size": "2000+",
+      "location": "Tallinn, Estonia",
+      "period": "MAR 2019 - PRESENT",
+      "description": "3Dプリンター技術関連の企業にて、クラウドサービスチームの一員として参加しました。主にBusiness IntelligenceやConnectivityをテーマにした業務に多く関わりました。直近では新事業でほぼ0からSDKを開発する少数先鋭のリードエンジニアを経験しました。",
+      "technology": ["Typescript", "React", "Electron", "Node.js", ".Net Framework", "PostgresSQL", "AWS", "Kubernetes"]
+    },
+    {
+      "title": "Software Engineer",
+      "name": "LEXIT",
+      "size": "< 50",
+      "location": "Tallinn, Estonia",
+      "period": "AUG 2018 - FEB 2019",
+      "description": "ICOプラットフォームの開発、ブロックチェーンを利用したM&Aプラットフォーム開発にバックエンド担当で参加しました。",
+      "technology": ["Typescript", "Solidity", "Node.js", ".Net Core", "MSSQL"]
+    },
+    {
+      "title": "Part-time Software Engineer",
+      "name": "COMODULE",
+      "size": "< 50",
+      "location": "Tallinn, Estonia",
+      "period": "AUG 2018 - Oct 2018",
+      "description": "転職後も後継人の育成や緊急対応など、パートタイムで対応しました。",
+      "technology": ["Typescript", "Angular", "Node.js", "GCP & Firebase"]
+    },
+    {
+      "title": "Software Engineer",
+      "name": "COMODULE",
+      "size": "< 50",
+      "location": "Tallinn, Estonia",
+      "period": "JAN 2018 - AUG 2018",
+      "description": "IoTデバイスを開発するスタートアップ企業にてフルスタックを担当しました。レガシーシステムのモダン化やCI/CDの導入など、ワークフローの改善へも貢献しました。",
+      "technology": ["Typescript", "Angular", "Node.js", "GCP & Firebase"]
+    },
+    {
+      "title": "Frontend Developer",
+      "name": "Ganalogics",
+      "size": "< 100",
+      "location": "Tallinn, Estonia",
+      "period": "NOV 2016 - JAN 2018",
+      "description": "スロットゲーム等のオンラインカジノゲームのフロントエンドの開発に携わりました。",
+      "technology": ["JQuery", "JQuery", "Pixi.js"]
+    }
+  ]
+
+}
